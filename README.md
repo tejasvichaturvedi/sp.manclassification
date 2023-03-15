@@ -1,1 +1,1 @@
-# sp.manclassification
+# sportsmanclassification
